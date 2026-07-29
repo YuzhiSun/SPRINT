@@ -1,10 +1,10 @@
 # SPRINT data and pretrained models
 
-The datasets and pretrained checkpoints required by the SPRINT notebooks are too large to be hosted directly in the GitHub repository. They will be distributed separately through Zenodo.
+The datasets and pretrained checkpoints required by the SPRINT notebooks are too large to be hosted directly in the GitHub repository. They will be distributed separately through Google Drive.
 
 ## Download
 
-> **Zenodo:** [SPRINT datasets and pretrained models](https://doi.org/10.5281/zenodo.XXXXXXX)
+> **Google Drive:** [SPRINT datasets and pretrained models](https://drive.google.com/file/d/1KXzYrU29n635I-olADI8KGJ_xnmkPGGD/view?usp=sharing)
 
 The DOI above is a placeholder and should be replaced after the Zenodo record is published.
 

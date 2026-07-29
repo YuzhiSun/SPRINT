@@ -23,7 +23,7 @@ The framework supports:
 
 > **Data availability**
 >
-> Large datasets and pretrained weights are not hosted in this GitHub repository. They will be distributed through Zenodo. See [`datas/README.md`](datas/README.md) for download instructions and the required directory layout.
+> Large datasets and pretrained weights are not hosted in this GitHub repository. They will be distributed through Google Drive. See [`datas/README.md`](datas/README.md) for download instructions and the required directory layout.
 
 ---
 
@@ -92,8 +92,8 @@ GPU acceleration is recommended for training and high-resolution inference. Pred
 
 Download the SPRINT archive from:
 
-> **Zenodo:** [SPRINT datasets and pretrained models](https://doi.org/10.5281/zenodo.XXXXXXX)  
-> The DOI is a placeholder and will be updated after the archive is published.
+> **Google Drive:** [SPRINT datasets and pretrained models](https://drive.google.com/file/d/1KXzYrU29n635I-olADI8KGJ_xnmkPGGD/view?usp=sharing)  
+
 
 Extract the archive directly into `datas/`:
 
