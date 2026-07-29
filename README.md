@@ -60,8 +60,7 @@ The framework supports:
 ## Installation
 
 ```bash
-git clone https://github.com/<OWNER>/<REPOSITORY>.git
-cd <REPOSITORY>
+git clone https://github.com/YuzhiSun/SPRINT.git
 
 python -m venv .venv
 ```
