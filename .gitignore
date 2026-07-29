@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Models & weights (distributed via Zenodo)
+models/
+*.pth
+*.pt
+
+# Data files (large .h5ad files distributed via Zenodo)
+datas/*.h5ad
+datas/**/*.h5ad
+
+# Keep demo data
+!datas/demo/*.h5ad
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+_*.py

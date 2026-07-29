@@ -1,0 +1,35 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="sprint",
+    version="1.0.0",
+    description="SPRINT: Spatial Protein Inference from Transcriptomics",
+    long_description=open("README.md", encoding="utf-8").read(),
+    long_description_content_type="text/markdown",
+    author="",
+    author_email="",
+    url="https://github.com/username/sprint",
+    packages=find_packages(where="codes"),
+    package_dir={"": "codes"},
+    python_requires=">=3.8",
+    install_requires=[
+        "torch>=1.13.0",
+        "torchvision>=0.14.0",
+        "scanpy>=1.9.0",
+        "anndata>=0.8.0",
+        "numpy>=1.21.0",
+        "pandas>=1.3.0",
+        "scipy>=1.7.0",
+        "scikit-learn>=1.0.0",
+        "h5py>=3.0.0",
+        "matplotlib>=3.5.0",
+        "seaborn>=0.11.0",
+        "tqdm>=4.60.0",
+    ],
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+        "Topic :: Scientific/Engineering :: Bio-Informatics",
+    ],
+)
